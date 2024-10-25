@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timmyshaef
 - 👀 I’m interested in puzzles and bass gutiar
-- 🌱 I’m currently learning more SQL and dipping into coding languages
-- 💞️ I’m looking to collaborate on things  
+- 🌱 I’m currently trying to enhance my knowledge of SQL and maybe dip my toes into some python
+- 💞️ I’m looking to collaborate and learn  
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've worked in music manufactuering for the past 13+ years
